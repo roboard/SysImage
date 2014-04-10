@@ -1,7 +1,7 @@
 SysImage
 ========
 
-The SysImage is a tool that can update BIOS/fireware/CPU clock on 86Duino. It is also a sketch that can be compiled by 86Duino IDE. Before using it, you need to restore it to your SD, refer to 86Duino SysImage page:
+The SysImage is a tool that can update BIOS/fireware/CPU clock on 86Duino. It is also a sketch that can be compiled by 86Duino IDE. Before using it, you need to restore it to your SD card, refer to 86Duino SysImage tutorial as below:
 
 http://www.86duino.com/?page_id=2844
 
