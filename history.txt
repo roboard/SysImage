@@ -1,0 +1,36 @@
+### VERSION_20140409 - 2014.04.09 ###
+
+[SYSIMAGE]
+* Add to adjust CPU clock funcsion.
+
+
+
+### VERSION_20140303 - 2014.03.03 ###
+
+* For Windows, the entire SysImage file is re-maked again to solve booting problem.  
+
+
+
+### VERSION_20140218 - 2014.02.18 ###
+
+[SYSIMAGE]
+* Modify a bug that can clean MAC address in SPI flash if you select "Update BIOS" or "Update system" option.
+
+
+
+### VERSION_20131226 - 2013.12.26 ###
+
+[BIOS]
+* The BIOS file is named as _core86.rom for 86Duino ONE/ZERO and _coreedu.rom for EduCake.
+* The BIOS version is "Guava 0.9" in 86Duino ONE/ZERO and "GuavaCake 0.9" in EduCake. 
+
+[BOOTLOADER]
+* It is named as _V86BOOT.exe.
+* Update to "hehuan" version.
+
+[SYSTEM]
+* The system file is named as _86DUINO.BIN for 86Duino ONE/ZERO and _EDUCAKE.BIN for EduCake.
+
+[SYSIMAGE]
+* It is named as _86duino.exe. (It is a binary program which is executed after bootloader)
+* It can help user to restore/update the BIOS/firmware in SPI flash via 86Duino serial monitor.
