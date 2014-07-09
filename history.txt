@@ -1,3 +1,11 @@
+### VERSION_20140709 - 2014.07.09 ###
+
+[BIOS]
+* Update BIOS version to "Guava 0.95" for 86Duino ONE/ZERO and "GuavaCake 0.95" for EduCake.
+  - USB keyboard is available on this version.
+
+
+
 ### VERSION_20140409 - 2014.04.09 ###
 
 [SYSIMAGE]
