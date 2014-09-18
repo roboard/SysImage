@@ -1,3 +1,22 @@
+### VERSION_20140918 - 2014.09.18 ###
+
+[BIOS]
+* Update BIOS version to "Guava 0.96" for 86Duino ONE/ZERO and "GuavaCake 0.96" for EduCake.
+  - Modifed the default state of PWM/Encoder/GPIO muilti-function pins to be GPIO input (tri-state).
+
+[SYSIMAGE]
+* Added the bootloader list for ZERO/ONE and EduCake bootloader.
+
+[BOOTLOADER]
+* EduCake bootloader now can enter to waiting state by shorting DTR or RTS to Ring on RS232 connector.
+
+[FREEDOS]
+* Modified fdconfig.sys to not load EMM386.EXE when booting.
+* Replaced DPMI server from pmode to R0. (EERESET.EXE also is updated since the compatibility for DPMI R0 server)
+* Replaced updating tool from anybios.exe to spiflash.exe.
+
+
+
 ### VERSION_20140709 - 2014.07.09 ###
 
 [BIOS]
