@@ -1,3 +1,11 @@
+### VERSION_20141103 - 2014.11.03 ###
+
+[BIOS]
+* Update BIOS version to "Guava 0.97" for 86Duino ONE
+  - Added the VBIOS in 86Duino BIOS for DMP mini PCI-E VGA card and fixed a Shadow RAM bug.
+
+
+
 ### VERSION_20140918 - 2014.09.18 ###
 
 [BIOS]
