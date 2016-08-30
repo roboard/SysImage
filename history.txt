@@ -1,3 +1,13 @@
+### VERSION_20160831 - 2016.08.31 ###
+
+[BIOS]
+* Add the BIOS "GuavaJuice 0.98" for 86Duino PLC.
+
+[SYSIMAGE]
+* Add "86Duino PLC" options in the BIOS and System updating list.
+
+
+
 ### VERSION_20150312 - 2015.03.12 ###
 
 [BIOS]
