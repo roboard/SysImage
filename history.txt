@@ -1,3 +1,16 @@
+### VERSION_20170717 - 2017.07.17 ###
+
+[SYSIMAGE]
+* Support the 86Duino for 1G RAM version, the updating files including :
+  - Update the cwsdpmi.exe to R7 version.
+  - Update the himemx.exe to 3.34 version.
+  - Update the jemm386.exe to 5.78 version.
+  - Add "DEVICE=C:\FDOS\BIN\JEMM386.EXE NOEMS MAX=0" command
+  - Update the bootloader _v86boot.exe
+  - Update the _86Duino.bin firmware file
+
+
+
 ### VERSION_20160831 - 2016.08.31 ###
 
 [BIOS]
